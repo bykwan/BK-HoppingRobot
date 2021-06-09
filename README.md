@@ -3,7 +3,9 @@ This project was my (Bradley Kwan) Master's thesis at California Polytechnic Sta
 The goal of the thesis is to develop an accurate model of a vertical hopping robot within Simulink, allowing for controller development and comparison to a physical prototype.
 
 ![Alt Text](hopping_robot.gif)
-![Alt Text](CAD Full Speed.gif)
+
+![Alt Text](CAD.gif)
+
 ## MATLAB Files
 The following MATLAB files are used to run the Stateflow and Simscape simulations.
 
