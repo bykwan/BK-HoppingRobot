@@ -10,5 +10,4 @@ The following MATLAB files are used to run the Stateflow and Simscape simulation
 ## Simulink Files
 The following Simulink files model the dynamics of the hopping robot constrained to a vertical slider.
 
--HR_Stateflow_Control.slx: Simulink file which uses Stateflow to run two Simulink models in tandem with each other.
-Stateflow handles the transitions between the two models based on the state of the system.
+- HR_Stateflow_Control.slx: Stateflow model of hopping robot
