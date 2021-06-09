@@ -6,8 +6,10 @@ The goal of the thesis is to develop an accurate model of a vertical hopping rob
 The following MATLAB files are used to run the Stateflow and Simscape simulations.
 
 - HopRobot_Stateflow.mlx: MATLAB live script used to simulate the Stateflow Simulink model. 
+- HR_Simscape_for_Stateflow.mlx: MATLAB live script used to simulate the Simscape model which generates the simulation data used to compare against the Stateflow model.
 
 ## Simulink Files
 The following Simulink files model the dynamics of the hopping robot constrained to a vertical slider.
 
 - HR_Stateflow_Control.slx: Stateflow model of hopping robot
+- Simscape_for_Stateflow.slx: Simscape model of hopping robot that uses thin solid models and point masses to mimic the Stateflow model.
